@@ -3,7 +3,6 @@
         <Form :fields="[person.name, person.age]"/>
         <Form :fields="[person.name, person.weight]"/>
         <Form :fields="[person.name, person.height]"/>
-        <v-dialog/>
     </div>
 </template>
 
